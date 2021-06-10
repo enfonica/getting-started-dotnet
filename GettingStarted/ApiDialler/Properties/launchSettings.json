@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "ApiDialler": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "applicationUrl": "http://0.0.0.0:12964",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ENFONICA_APPLICATION_CREDENTIALS": "../../service-account-key.json"
+      }
+    }
+  }
+}
